@@ -1,0 +1,647 @@
+.sect{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 25px;
+}
+
+.HEROIC{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+.text{
+	
+	font-weight: bolder;
+
+}
+.text1{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.navi{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textn{
+	font-weight: bolder;
+
+}
+.textna{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.Outsiders{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.texto{
+	font-weight: bolder;
+}
+
+.textou{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.faze{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textf{
+	font-weight: bolder;
+}
+
+.textfa{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.sect1{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 25px;
+}
+
+.Mouz{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textm{
+	font-weight: bolder;
+}
+
+.textmo{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.furia{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textf{
+	font-weight: bolder;
+}
+
+.textfu{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.cloud{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textc{
+	font-weight: bolder;
+}
+
+.textcl{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.lic{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textl{
+	font-weight: bolder;
+}
+
+.textli{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.vit{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textv{
+	font-weight: bolder;
+}
+
+.textvi{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.sect2{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 25px;
+}
+
+.fnat{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textf{
+	font-weight: bolder;
+}
+
+.textfn{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.spirit{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.texts{
+	font-weight: bolder;
+}
+
+.textsp{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.g2{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textg{
+	font-weight: bolder;
+}
+
+.textg2{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.sect3{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 25px;
+}
+
+.nip{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.tetxn{
+	font-weight: bolder;
+}
+
+.textni{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.en{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.texte{
+	font-weight: bolder;
+}
+
+.texten{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.big{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textb{
+	font-weight: bolder;
+}
+
+.textbi{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.ast{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.texta{
+	font-weight: bolder;
+}
+
+.textas{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.sect4{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 25px;
+}
+
+.bad{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textb{
+	font-weight: bolder;
+}
+
+.textba{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.og {
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+
+}
+
+.texto{
+	font-weight: bolder;
+}
+
+.textog{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.sprout{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.texts{
+	font-weight: bolder;
+}
+
+.textsp{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.comp{
+	border-radius: 20px;
+	border: 1px solid black;
+	width: 200px;
+	padding: 20px;
+}
+
+.textc{
+	font-weight: bolder;
+}
+
+.textco{
+	padding: 10px;
+	font-weight: bolder;
+	background-color: lightgray;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+
+.pro{
+	display: none;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 10px;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+.sdvig{
+	margin-left: 5px;
+}
+
+#he, #navi, #out, #faze, #mouz, #f, #cl, #liq, #vit, #fnat, #team, #g2, #nin, #ence, #big, #ast, #bad, #og, #sp, #comp{
+	position: fixed;
+	top: 26%;
+	left: 21.3%;
+	right: 0;
+	bottom: 0;
+	width: 60%;
+	height: 300px;
+	z-index: 1000px;
+	display: none;
+	background-color: rgba(0, 0, 0,0.8);
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	animation: fadeIn 250ms ease-in-out;
+}
+.modal{
+	width: 100%;
+	max-width: 960px;
+	min-height: 100px;
+	border-radius: 4px;
+	position: relative;
+	border: none;
+	color: white;
+	font-weight: 300;
+	padding-top: 350px;
+	bottom: 85%;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.close {
+	color: red;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+	right: 5%;
+	position: absolute;
+	z-index: 2;
+}
+
+.players{
+	display: block;
+	justify-content: center;
+	text-align: center;
+	color: whitesmoke;
+}
+
+.glavniy1{
+	display: none;
+}
+
+#Cadian, #stavn, #TeSeS, #Sjuush , #Jabbi, #s1mple, #electroNic ,#Perfecto,#B1T, #FL1T, #Qikert, #Jame, #n0rb3r7, #fame, #Twistzz, #broky, #rain, #ropz, #karrigan, #torzsi, #xertioN{
+	position: fixed;
+	top: 0%;
+	left: 11%;
+	right: 0;
+	bottom: 0;
+	width: 80%;
+	height: 101%;
+	z-index: 1000;
+	display: none;
+	background-color: rgba(0, 0, 0,0.8);
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	animation: fadeIn 250ms ease-in-out;
+}
+
+#JDC, #dexter, #frozen, #drop, #yuurih, #arT, #KSCERATO, #saffee, #nafany, #interz, #HObbit, #Ax1Le, #sh1ro, #EliGE, #NAF, #YEKINDAR, #Plopski, #Grim, #JT, #floopy, #hallzerk, #FaNg{
+	position: fixed;
+	top: 0%;
+	left: 11%;
+	right: 0;
+	bottom: 0;
+	width: 80%;
+	height: 101%;
+	z-index: 1000;
+	display: none;
+	background-color: rgba(0, 0, 0,0.8);
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	animation: fadeIn 250ms ease-in-out;
+}
+
+ #oSee, #nitr0, #Spinx, #Magisk, #dupreeh, #apEX, #ZywOo, #smooya, #KRiMZ, #Brollan, #ALEX, #mezii, #w0nderful, #s1ren, #Patsi, #chopper, #magixx, #m0NESY, #huNter, #NiKO, #jks, #headtr1ck, #hampus, #Brollan, #REZ, #Aleksib, #device, #hades, #Snappi, #dycha, #maden, #SunPayus, #gade, #syrsoN, #tiziaN, #k1to, #tabseN, #device, #MistR, #blameF, #Xyp9x, #gla1ve, #rigoN, #SENER1, #juanflatroo, #gxx, #flameZ, #degster, #nexa, #NEOFRAG, #F1KU, #refrezh, #slaxz, #Zyphon, #Staehr, #lauNX, #Grim, #JT, #floop, #hallzerk, #FaNg, #sinnopsyy{
+ 	position: fixed;
+	top: 0%;
+	left: 11%;
+	right: 0;
+	bottom: 0;
+	width: 80%;
+	height: 101%;
+	z-index: 1000;
+	display: none;
+	background-color: rgba(0, 0, 0,0.8);
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	animation: fadeIn 250ms ease-in-out;
+ }
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.levo{
+	position: fixed;
+	left: 50px;
+	top: %;
+}
+
+.levo2{
+	position: absolute;
+	left: 35px;
+	top: 5.4%;
+}
+
+.pravo{
+	position: absolute;
+	right: 30px;
+	top: 28%;
+}
+
+.pravo1{
+	position: absolute;
+	right: 30px;
+	top: 5.2%;
+}
+
+.pravo2{
+	position: absolute;
+	right: 39.5%;
+	top: 54%;
+}
+
+
+.set{
+	position: absolute;
+	top: 50%;
+	left: 30px;
+}
+
+.displayset{
+	position: absolute;
+	top: 55%;
+	right: 40px;
+}
+
+.ryki{
+	position: absolute;
+	top: 76%;
+	right: 23%;
+}
+
+.ryki1{
+	position: absolute;
+	top: 84%;
+	right: 26%;
+}
+
+.Parameter{
+	position: absolute;
+	top: 93%;
+	right: 37%;
+}
+
+.crosshair{
+	position: absolute;
+	top: 37%;
+	right: 45%;
+	z-index: 3;
+}
+
+.isprav{
+	position: absolute;
+	top: 30%;
+	right: 46.6%;
+	z-index: 3;
+}
+
+.mir{
+	position: absolute;
+	top: 36%;
+	right: 32.2%;
+}
+
+.VIEWMODELkopia{
+	display: flex;
+	position: absolute;
+	top: 76%;
+	right: 20%;
+	cursor: pointer;
+}
+
+.cl_bobkopia{
+	display: flex;
+	position: absolute;
+	top: 84%;
+	right: 20%;
+	cursor: pointer;
+}
+
+.parameterkopia{
+	display: flex;
+	position: absolute;
+	top: 91.5%;
+	right: 20%;
+	cursor: pointer;
+  
+}
